@@ -40,7 +40,7 @@ Try using this tutorial to install and build opencv: https://pimylifeup.com/rasp
 Setting Up Software
 1.) Clone Repository:
 
-git clone https://github.com/ecd1012/rpi_road_object_detection.git
+git clone https://github.com/Tajamul21/Raspberry-Pi-Object-Detection-autunomous-car
 2.) Change directory to source code:
 
 cd rpi_road_object_detection
